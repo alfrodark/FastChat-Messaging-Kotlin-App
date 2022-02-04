@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FastChat App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="chats_fragment_label">Chats</string>
+    <string name="search_fragment_label">Search</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="settings_fragment_label">Settings</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="enter_your_details">Enter your Details</string>
+    <string name="signout">Logout</string>
+    <string name="type_your_message">type your message…</string>
+    <string name="testing_msg">testing msg</string>
+    <string name="seen">seen</string>
+    <string name="send_message">Send Message</string>
+    <string name="user_name">username</string>
+    <string name="change_username">Change Username</string>
+    <string name="logout">Logout</string>
+    <string name="social_media">Other Social Media Accounts</string>
+    <string name="search_users_here">Search users here…</string>
+    <string name="last_msg">last msg</string>
+    <string name="create_new_account">Create Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fastchat">FastChat</string>
+    <string name="a_secure_chatting_app">A Secure Chatting App.</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="please_provide_your_registered_email_address_to_reset_your_password">Please provide your registered Email address to Reset your Password</string>
+    <string name="forgot">Forgot</string>
+    <string name="login_here">Login here</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="c_alfrosoft_icrosystems">© 2021 Alfrosoft Microsystems</string>
+</resources>
