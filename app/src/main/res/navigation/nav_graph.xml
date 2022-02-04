@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_chats">
+
+    <fragment
+        android:id="@+id/navigation_chats"
+        android:name="com.alfrosoft.fastchatapp.fragments.ChatsFragment"
+        android:label="@string/chats_fragment_label"
+        tools:layout="@layout/fragment_chats"/>
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.alfrosoft.fastchatapp.fragments.SearchFragment"
+        android:label="@string/search_fragment_label"
+        tools:layout="@layout/fragment_search"/>
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.alfrosoft.fastchatapp.fragments.SettingsFragment"
+        android:label="@string/settings_fragment_label"
+        tools:layout="@layout/fragment_settings" />
+</navigation>
